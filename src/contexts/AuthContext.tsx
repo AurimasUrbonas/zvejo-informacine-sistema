@@ -1,4 +1,4 @@
-import { UserCredential } from "@firebase/auth";
+import { User, UserCredential } from "@firebase/auth";
 import { createContext, useState, useContext, useEffect } from "react";
 import { auth } from "../config/firebase";
 
@@ -13,6 +13,8 @@ export const AuthContext: React.FC<Auth> = ({ children }: Auth) => {
   const [load, setLoad] = useState(false);
   const [email, setEmail] = useState<null | string>(null);
 
+  const [userAuth, setUserAuth] = useState<User | null>(null);
+
   const createUser = (
     email: string,
     password: string
@@ -23,9 +25,9 @@ export const AuthContext: React.FC<Auth> = ({ children }: Auth) => {
   useEffect(() => {
     const unsubscribe = auth.getAuth().onAuthStateChanged((user) => {
       if (user) {
+        setUserAuth(user);
         setUser(user.uid);
         setEmail(user.email);
-        console.log(`Current user: ${user.uid}`);
         setLoad(true);
       } else {
         setLoad(true);
@@ -38,6 +40,7 @@ export const AuthContext: React.FC<Auth> = ({ children }: Auth) => {
     createUser,
     user,
     email,
+    userAuth,
   };
 
   return (
@@ -52,4 +55,5 @@ interface ContextValue {
   createUser: (email: string, password: string) => Promise<UserCredential>;
   user: string | null;
   email: string | null;
+  userAuth: User | null;
 }

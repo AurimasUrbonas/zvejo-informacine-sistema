@@ -77,7 +77,7 @@ export default function ZuvuSarasasPage() {
     if (args && args.commandColumn && args.rowData) {
       const rowData: IZuvuData = args.rowData as IZuvuData;
 
-      const zuvis = zuvuData?.filter((zuvis) => zuvis.id === rowData.id);
+      const zuvis = zuvuData?.filter((zuvis) => zuvis.Id === rowData.Id);
       if (zuvis) setZuviesData(zuvis[0]);
 
       showModal();
@@ -98,7 +98,7 @@ export default function ZuvuSarasasPage() {
           dataBound={dataBound}
           locale="lt-LT"
           width="100%"
-          height={647}
+          height={614}
           dataSource={zuvuData}
           enableStickyHeader={true}
           allowPaging={true}

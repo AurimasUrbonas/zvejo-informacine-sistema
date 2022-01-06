@@ -8,6 +8,7 @@ interface IZuvuDetales {
 export default function ZuvuDetales(props: IZuvuDetales) {
   const { Paveikslelis, Pavadinimas, Kimba, Nerstas, Apibudinimas, Minta } =
     props.zuviesData;
+  console.log(props.zuviesData);
 
   return (
     <ZuvuDetalesWrapper>

@@ -1,5 +1,5 @@
 export interface IZuvuData {
-  id: number;
+  Id: number;
   Paveikslelis: string;
   Pavadinimas: string;
   Kunas: string;

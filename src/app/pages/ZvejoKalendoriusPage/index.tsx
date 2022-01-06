@@ -228,7 +228,7 @@ export default function ZvejoKalendoriusPage() {
                 dataBound={dataBound}
                 locale="lt-LT"
                 width="100%"
-                height={298}
+                height={260}
                 dataSource={zuvuRekomendacijos.Zuvys}
                 enableStickyHeader={true}
                 allowPaging={true}
