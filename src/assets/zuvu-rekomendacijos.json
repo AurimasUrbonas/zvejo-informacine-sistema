@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "menuo": "Sausis",
+    "zuvys": [
+      {
+        "zuvis": "Ešerys",
+        "kibimas": "Geras",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Blizgiavimas, avižėle ir 'velniu', plūdine, fideris",
+        "masalai": "Vertikalios blizgutės, švytuoklės, avižėlės, 'velniai', uodo trūklio lervos ar jos imitacija, ešerio akis"
+      },
+      {
+        "zuvis": "Lydeka",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Blizgiavimas, spiningas",
+        "masalai": "Švytuoklės, vertikaliam gaudymui tinkantys vobleriai, blizgutės, atvirame vandenyje - visi dirbtiniai masalai"
+      },
+      {
+        "zuvis": "Karšis",
+        "kibimas": "Silpnas, kai kuriuose telkiniuose vidutiniškas",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Avižėlės, plūdinė, fideris",
+        "masalai": "Avižėlės, uodo trūklio lervos, musės lervos"
+      },
+      {
+        "zuvis": "Plakis",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Avižėlė, plūdinė, fideris",
+        "masalai": "Avižėlės, uodo trūklio ir musės lervos"
+      },
+      {
+        "zuvis": "Kuoja",
+        "kibimas": "Geras",
+        "zuklavietes": "Kuršių marios, Nemunas",
+        "gaudymoBudai": "Avižėlės, plūdinė, fideris",
+        "masalai": "Avižėlės, uodo trūklio lervos, mažos musės lervos (pinkos)"
+      },
+      {
+        "zuvis": "Vėgėlė (leidžiama gaudyti tik nuo sausio 16 d.)",
+        "kibimas": "Geras",
+        "zuklavietes": "Kuršių marios, Nemunas",
+        "gaudymoBudai": "Blizgė, dugninė meškerė ar vėliavėlės",
+        "masalai": "Blizgės su užkabintu žuvies gabaliuku, žuvelė, sliekai"
+      },
+      {
+        "zuvis": "Stinta",
+        "kibimas": "Geras",
+        "zuklavietes": "Kuršių marios",
+        "gaudymoBudai": "Avižėlės, plūdinė, fideris",
+        "masalai": "Fosforinės arba paprastos lengvos avižėlės su užmautais žuvų gabaliukas"
+      },
+      {
+        "zuvis": "Šlakiai ir lašišos (leidžiama žvejoti tik įsigijus toje upėje galiojančią kortelę)",
+        "kibimas": "Geras",
+        "zuklavietes": "Neries, Šventosios, Dubysos, Minijos ir kitos upės ir jų ruožai kur organizuojama šių žuvų limituota žūklė (žr. žūklės taisykles)",
+        "gaudymoBudai": "Spiningas",
+        "masalai": "Vobleriai, blizgės, guminukai"
+      },
+      {
+        "zuvis": "Margieji upėtakiai",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Šaltavandenės upės ir upeliai",
+        "gaudymoBudai": "Spiningas, muselinė",
+        "masalai": "Vobleriai, sukrės ir kiti tik dirbtiniai masalai, skęstančios muselės, strymeriai"
+      },
+      {
+        "zuvis": "Žiobris",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+        "gaudymoBudai": "Plūdinė, dugninė, avižėlė",
+        "masalai": "Avižėlės, uodo trūklio lervos, musės lervos, sliekai"
+      },
+      {
+        "zuvis": "Šapalas",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+        "gaudymoBudai": "Plūdinė, dugninė, avižėlė, spiningas, muselinė",
+        "masalai": "Visi dirbtiniai ir gyvi masalai"
+      },
+      {
+        "zuvis": "Strepetys",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Vidutinio dydžio ir mažesnės upės",
+        "gaudymoBudai": "Plūdinė, avižėlė",
+        "masalai": "Avižėlės, uodo trūklio ir musės lervos"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "menuo": "Vasaris",
+    "zuvys": [
+      {
+        "zuvis": "Ešerys",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Blizgiavimas, avižėle ir 'velniu'",
+        "masalai": "Vertikalios blizgutės, švytuoklės, avižėlės, 'velniai', uodo trūklio lervos ar jos imitacija, ešerio akis"
+      },
+      {
+        "zuvis": "Sterkas",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Kuršių ir Kauno marios, dauguma užtvankų, kai kurie ežerai",
+        "gaudymoBudai": "Blizgiavimas, stambi aviža",
+        "masalai": "Blizgės, švytuoklės, vibai, stambios avižos, žuvies galiukai"
+      },
+      {
+        "zuvis": "Karšis",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Avižėlės, plūdinė, fideris",
+        "masalai": "Avižėlės, uodo trūklio lervos, musės lervos"
+      },
+      {
+        "zuvis": "Plakis",
+        "kibimas": "Geras",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Avižėlė, plūdinė, fideris",
+        "masalai": "Avižėlės, uodo trūklio ir musės lervos"
+      },
+      {
+        "zuvis": "Kuoja",
+        "kibimas": "Geras",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Avižėlės, plūdinė, fideris",
+        "masalai": "Avižėlės, uodo trūklio lervos, mažos musės lervos (pinkos)"
+      },
+      {
+        "zuvis": "Vėgėlė (leidžiama gaudyti tik nuo sausio 16 d.)",
+        "kibimas": "Geras",
+        "zuklavietes": "Kuršių marios, Nemunas",
+        "gaudymoBudai": "Blizgė, dugninė meškerė ar vėliavėlės",
+        "masalai": "Blizgės su užkabintu žuvies gabaliuku, žuvelė, sliekai"
+      },
+      {
+        "zuvis": "Stinta",
+        "kibimas": "Geras",
+        "zuklavietes": "Kuršių marios",
+        "gaudymoBudai": "Avižėlės, plūdinė, fideris",
+        "masalai": "Fosforinės arba paprastos lengvos avižėlės su užmautais žuvų gabaliukas"
+      },
+      {
+        "zuvis": "Ežerinė stintelė",
+        "kibimas": "Geras",
+        "zuklavietes": "Kai kurie gilūs ežerai ir tvenkiniai",
+        "gaudymoBudai": "Speciali sistemėlė",
+        "masalai": "Fosforinės itin mažos avižėlės, kabliukai, mažos musės lervos (pinkos)"
+      },
+      {
+        "zuvis": "Šlakiai ir lašišos (leidžiama žvejoti tik įsigijus toje upėje galiojančią kortelę)",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Neries, Šventosios, Dubysos, Minijos ir kitos upės ir jų ruožai kur organizuojama šių žuvų limituota žūklė (žr. žūklės taisykles)",
+        "gaudymoBudai": "Spiningas, muselinė",
+        "masalai": "Vobleriai, blizgės, guminukai, muselės"
+      },
+      {
+        "zuvis": "Margieji upėtakiai",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Šaltavandenės upės ir upeliai",
+        "gaudymoBudai": "Spiningas, muselinė",
+        "masalai": "Vobleriai, sukrės ir kiti tik dirbtiniai masalai, skęstančios muselės, strymeriai"
+      },
+      {
+        "zuvis": "Žiobris",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+        "gaudymoBudai": "Plūdinė, dugninė, avižėlė",
+        "masalai": "Avižėlės, uodo trūklio lervos, musės lervos, sliekai"
+      },
+      {
+        "zuvis": "Seliava",
+        "kibimas": "Geras",
+        "zuklavietes": "'Seliaviniai' ežerai",
+        "gaudymoBudai": "Speciali sistemėlė",
+        "masalai": "Trūkliai"
+      },
+      {
+        "zuvis": "Šapalas",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+        "gaudymoBudai": "Plūdinė, dugninė, avižėlė, spiningas, muselinė",
+        "masalai": "Visi dirbtiniai ir gyvi masalai"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "menuo": "Gruodis",
+    "zuvys": [
+      {
+        "zuvis": "Ešerys",
+        "kibimas": "Geras",
+        "zuklavietes": "Didesnės ir vidutinės upės, kai kurie tvenkiniai ir ežerai",
+        "gaudymoBudai": "Visi žūklės būdai",
+        "masalai": "Vertikalios blizgutės, švytuoklės, avižėlės, 'velniai', uodo trūklio lervos ar jos imitacija, ešerio akis"
+      },
+      {
+        "zuvis": "Lydeka",
+        "kibimas": "Geras",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Spiningas, muselinė, blizgės, vėliavėlės, skrutuliai",
+        "masalai": "Visi dirbtiniai masalai, negyva ar gyva žuvelė"
+      },
+      {
+        "zuvis": "Salatis",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Didesnės upės, užtvankos, kai kurie ežerai, Kuršių, Kauno, Kupiškio marios",
+        "gaudymoBudai": "Spiningas, muselinė",
+        "masalai": "Vartiklės, 7-10 cm vobleriai, didesnės muselės"
+      },
+      {
+        "zuvis": "Sterkas",
+        "kibimas": "Vidutiniškas",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Spiningas, velkė, dugninė",
+        "masalai": "7-10 cm guminukai, negyva žuvelė ar jos gabaliukas, žieminė blizgė"
+      },
+      {
+        "zuvis": "Karšis",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Plūdinė, fideris, žieminė meškerė",
+        "masalai": "Musės lervos, uodo trūklio lervos, avižėlės"
+      },
+      {
+        "zuvis": "Plakis",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Visi telkiniai",
+        "gaudymoBudai": "Plūdinė, fideris, žieminė meškerė",
+        "masalai": "Musės lervos, sliekai, uodo trūklio lervos, avižėlės"
+      },
+      {
+        "zuvis": "Kuoja",
+        "kibimas": "Geras",
+        "zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+        "gaudymoBudai": "Plūdinė, fideris",
+        "masalai": "Didelės ir mažos musės lervos, batono minkė, uodo trūklio lervos, avižėlės"
+      },
+      {
+        "zuvis": "Vėgėlė (leidžiama gaudyti tik nuo sausio 16 d.)",
+        "kibimas": "Geras",
+        "zuklavietes": "Visi vandens telkiniai",
+        "gaudymoBudai": "Dugninė",
+        "masalai": "Sliekai, negyva ir gyva žuvelė, varlės"
+      },
+      {
+        "zuvis": "Meknė",
+        "kibimas": "Silpnas",
+        "zuklavietes": "Baltijos jūra",
+        "gaudymoBudai": "Plūdinė, dugninė",
+        "masalai": "Musės lervos, sliekai"
+      },
+      {
+        "zuvis": "Menkė",
+        "kibimas": "Geras",
+        "zuklavietes": "Baltijos jūros priekrantė",
+        "gaudymoBudai": "Vertikalus gaudymas, spiningas",
+        "masalai": "Guminukai, pilkeriai, krevetės"
+      },
+      {
+        "zuvis": "Plekšnė",
+        "kibimas": "Geras",
+        "zuklavietes": "Kuršių marios, Nemunas, upės ir tvenkiniai, kur susiformavusi jų vietinė (neišeinanti iį jūrą) populiacija",
+        "gaudymoBudai": "Dugninė",
+        "masalai": "Gyvos ir virtos krevetės, žuvies gabaliukai, sliekai"
+      },
+      {
+        "zuvis": "Žiobris",
+        "kibimas": "Geras",
+        "zuklavietes": "Nemunas, Neris žemupys, kitos upės, kur šiuo metu leidžiama žvejoti",
+        "gaudymoBudai": "Dugninė, plūdinė, žieminė meškerė",
+        "masalai": "Uodo trūklio ir musės lervos, sliekeliai, avižėlė"
+      },
+      {
+        "zuvis": "Šapalas",
+        "kibimas": "Geras",
+        "zuklavietes": "Didesnės ir vidutinės upės, protakos tarp ežerų",
+        "gaudymoBudai": "Spiningas, plūdinė, muselinė, dugninė",
+        "masalai": "Batono minkė, sliekai, musės lervos, muselės, nedideli guminukai, avižėlės ir blizgutės"
+      }
+    ]
+  }
+]

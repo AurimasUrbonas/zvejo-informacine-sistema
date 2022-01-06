@@ -1,0 +1,5 @@
+export enum ActionTypes {
+  USER_REQUEST = "USER_REQUEST",
+  USER_SUCCESS = "USER_SUCCESS",
+  USER_FAILED = "USER_FAILED",
+}

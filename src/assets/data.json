@@ -1,0 +1,657 @@
+[
+  [
+    {
+      "Id": 0,
+      "Paveikslelis": "auksle.jpg",
+      "Pavadinimas": "Aukšlė",
+      "Kunas": "Verpstės",
+      "NugarosSpalva": "Tamsiai mėlyna su žalsvu atspalviu",
+      "SonuSpalva": "Balkšvai sidabrinė",
+      "PilvoSpalva": "Balkšvai sidabrinė",
+      "Zvynai": "Smulkūs, ploni, lengvai nukrentantys",
+      "Apibudinimas": "Nedidelė verpstės formos, plokščiais šonais žuvis. Aukšlės nugara tamsiai melyna su žalsvu atspalviu, šonai ir pilvas balkšvai sidabrinės spalvos. Žvynai smulkūs, ploni lengvai nukrentantys. Akys šviesios didelės. Užauga iki 22-26cm. ir 65-75g. svorio. Dažniausiai sugaunasmos 13-15cm. žuvys. Stambiausios pasitaiko didžiausiose Lietuvos upėse. Aukšlės gyneva būriais dažniausiai viršutiniuose vandens sluoksniuose, Sutinkamos praktiškai visose Lietuvos upėse, bei daugumoje ežerų. Aukšlės yra pagrindinis plėšriųjų žuvų grobis.",
+      "Kimba": "Gegužės, birželio, liepos mėnesiais",
+      "Nerstas": "Aukšlės lytiškai subręsta 3-iais gyvenimo metais, neršia ant vandens augalų vandens temperatūrai pakilus iki 16 - 17C. Kadangi skirtingose telkiniuose vandens temperatūra nevienoda todėl ir aukšlės neršia skirtingai birželio, liepos mėnesiais kartais net gegužės viduryje.",
+      "Minta": "Smulkiais vėžiagyviais, vabzdžiais ir jų lervomis."
+    },
+    {
+      "Id": 1,
+      "Paveikslelis": "eserys.jpg",
+      "Pavadinimas": "Ešerys",
+      "Kunas": "Aukštas, kuprotas",
+      "NugarosSpalva": "Tamsiai žalia",
+      "SonuSpalva": "Žaliai gelsvi",
+      "PilvoSpalva": "Balta",
+      "Zvynai": "Kieti",
+      "Apibudinimas": "Kūnas aukštas, kuprotas, apaugęs kietais tvirtai į odą įaugusiais žvynais. Nugara tamsiai žalia, šonai žaliai gelsvi, su 5-9 skersiniais tamsiais dryžiais, pilvas baltas. Akys didelės, tamsios, galva didelė su plačiomis žiotimis. Burnoje daug smulkiu dantuku. Turi du nugarinius pelekus, pimasis aukštas su juoda dėme užpakalinėje dalyje, antras žalsvai gelsvas. Abu pelekai su aštriais spygliais. Krūtininiai pelekai oranžiniai arba gelsvi pilvo ir analinis raudoni, uodeginis gelsvai raudonas prie pagrindo truputi juosvas. Ešeriai užauga iki 50cm. ilgio ir 4 kg. svorio. Dažniausiai sugaunami 100-300g. ešeriai.",
+      "Kimba": "Rugpjūčio, rugsėjo, spalio, gruodžio, sausio mėnesiais",
+      "Nerstas": "Ešeriai lytiškai subręsta 2-3-aisiais gyvenimo metais. Neršia gegužės mėnesį ant priekrantės augalų.",
+      "Minta": "Bestuburiais, smulkiomis žuvelėmis."
+    },
+    {
+      "Id": 2,
+      "Paveikslelis": "gruzlys.jpg",
+      "Pavadinimas": "Gružlys",
+      "Kunas": "Nedidelis, apvalus",
+      "NugarosSpalva": "Tamsiai rusva arba pilkšvai žalsva su violetiniu atspalviu",
+      "SonuSpalva": "Šviesesni su rusvomis ar žalsvai melsvomis dėmelėmis",
+      "PilvoSpalva": "Gelsvai baltas arba pilkšvas",
+      "Zvynai": "Ploni",
+      "Apibudinimas": "nedidėlė lietuvos upių žuvis, pasitaiko ir ežeruose. Kūnas apvalus kiek storesnis ties galva, ilga uodegine dalimi. Nugara tamsiais rusva arba pilkšvai žalsva su violetiniu atspalviu. Šonai šviesesni su rusvomis ar žalsvai melsvomis dėmelėmis išsidėsčiusiomis išilgai kūno. Pilvas gelsvai baltas arba pilkšvas. Žuvies spalva priklauso ir nuo vandens telkinio bei jo dugno. Akys didelės, žvynai ploni, pelekai šviesiai rusvi permatomi su tamsesnėmis dėmelemis uodegoje. Apatinės lūpos šonuose yra po nedidelį ūselį. Gružliai užauga iki 20-22cm. ilgio ir 180-200g. svorio. Dažniausiai sugaunasmos 12-15cm ir iki 80g. žuvys. Gyvena būriais, laikosi prie dugno mėgsta švarų vandenį. Mėgstamas plėšrunų grobis.",
+      "Kimba": "Mėnesiais",
+      "Nerstas": "Gružliai lytiškai subręsta trečiaisiais gyvenimo metais. Neršia gegužės, birželio mėnesiais ant smėlėto dugno.",
+      "Minta": "Augalais"
+    },
+    {
+      "Id": 3,
+      "Paveikslelis": "zvynuotas-karpis.png",
+      "Pavadinimas": "Žvynuotas karpis",
+      "Kunas": "Storas",
+      "NugarosSpalva": "Tamsi",
+      "SonuSpalva": "Pilki, gelsvi, žalsvi arba melsvi",
+      "PilvoSpalva": "Gelsvai baltas arba pilkšvas",
+      "Zvynai": "Ploni",
+      "Apibudinimas": "Klasifikuojami karpiai į keletą rušių: žvynuotieji kairpiai, veidordiniai- su nedaug bet didelių ir blizgančių žvynų, augančių keliomis elėmis per vidurį, plikieji - visai be žvynų. Pagal formą galima skirti į du tipus aukštanugariai ir žemanugariai. Karpiai užauga iki 1.5m ir 45kg. svorio. Gyvena iki 30m. amžiaus.",
+      "Kimba": "Liepos, rugpjūčio, rugsėjo mėnesiais",
+      "Nerstas": "Gegužės, birželio mėn.",
+      "Minta": "Augalais"
+    },
+    {
+      "Id": 4,
+      "Paveikslelis": "veidrodinis-karpis.jpg",
+      "Pavadinimas": "Veidrodinis karpis",
+      "Kunas": "Storas",
+      "NugarosSpalva": "Tamsi",
+      "SonuSpalva": "Pilki, gelsvi, žalsvi arba melsvi",
+      "PilvoSpalva": "Gelsvai baltas arba pilkšvas",
+      "Zvynai": "Nedaug bet dideli ir blizgantys",
+      "Apibudinimas": "Klasifikuojami karpiai į keletą rušių: žvynuotieji kairpiai, veidordiniai- su nedaug bet didelių ir blizgančių žvynų, augančių keliomis elėmis per vidurį, plikieji - visai be žvynų. Pagal formą galima skirti į du tipus aukštanugariai ir žemanugariai. Karpiai užauga iki 1.5m ir 45kg. svorio. Gyvena iki 30m. amžiaus.",
+      "Kimba": "Liepos, rugpjūčio, rugsėjo mėnesiais",
+      "Nerstas": "Gegužės, birželio mėn.",
+      "Minta": "Augalais"
+    },
+    {
+      "Id": 5,
+      "Paveikslelis": "plikasis-karpis.jpg",
+      "Pavadinimas": "Plikasis karpis",
+      "Kunas": "Storas",
+      "NugarosSpalva": "Tamsi",
+      "SonuSpalva": "Pilki, gelsvi, žalsvi arba melsvi",
+      "PilvoSpalva": "Gelsvai baltas arba pilkšvas",
+      "Zvynai": "Neturi",
+      "Apibudinimas": "Klasifikuojami karpiai į keletą rušių: žvynuotieji kairpiai, veidordiniai- su nedaug bet didelių ir blizgančių žvynų, augančių keliomis elėmis per vidurį, plikieji - visai be žvynų. Pagal formą galima skirti į du tipus aukštanugariai ir žemanugariai. Karpiai užauga iki 1.5m ir 45kg. svorio. Gyvena iki 30m. amžiaus.",
+      "Kimba": "Liepos, rugpjūčio, rugsėjo mėnesiais",
+      "Nerstas": "Gegužės, birželio mėn.",
+      "Minta": "Augalais"
+    },
+    {
+      "Id": 6,
+      "Paveikslelis": "karsis.jpg",
+      "Pavadinimas": "Karšis",
+      "Kunas": "Auktštas, kuprotas",
+      "NugarosSpalva": "Tamsi, pilkšva arba rusvai gelsva",
+      "SonuSpalva": "Pilkšvai gelsvi",
+      "PilvoSpalva": "Sidabriškas su gelsvu atspalviu",
+      "Zvynai": "Stambūs",
+      "Apibudinimas": "Kūnas aukštas, kuprotas, iš šonų plokščias. Nugara tamsi pilkšva ar rusvai gelsva, šonai pilkšvai gelsvi, pilvas sidabriškas su gelsvu atspalviu. Žvynai stambūs, ties galva kiek mažesni. Pelekai juosvai pilki. Žiotys pusiau apatinės. Karšio lūpos mėsingos, minkštos primena dumples. Karšis užauga iki 86cm. ilgio ir 8kg. svorio. Dažniausiai žvejams papuola 500g.-1.5kg svorio karšiai. Karšis dugninė žuvis, laikosi būriais. Gyvena ežeruose,tvenkiniuose, gilesnėse upėse, kuršių mariose, sugaunas baltijos jūros priekrantėje.",
+      "Kimba": "Liepos, rugpjūčio, rugsėjo mėnesiais",
+      "Nerstas": "Lytiškai subręsta 5-7-ais gyvenymo metais. Auga lėtai. Neršia gegužės-birželio mėnesiais, pakaitomis. Pirmiausiais išneršia stambieji karšiai paskui mažesni.",
+      "Minta": "Vabzdžių lervomis, dėlėmis, augaliniu maistu."
+    },
+    {
+      "Id": 7,
+      "Paveikslelis": "kuoja.jpg",
+      "Pavadinimas": "Kuoja",
+      "Kunas": "Plokščias",
+      "NugarosSpalva": "Pilkšvai melsva su žalsvu atspalviu",
+      "SonuSpalva": "Sidabriniai",
+      "PilvoSpalva": "Sidabrinis",
+      "Zvynai": "Didoki",
+      "Apibudinimas": "Kūnas iš šonų plokščias. Nugara pilkšvai melsva su žalsvu atspalviu, šonai sidabrinės spalvos. Akys oranžinės su rausva dėmele viršutinėje dalyje. Žvynai didoki, nugarinis ir uodeginis pelekai pilki su rusvu atspalviu, krūtininiai gelsvi, pilvo ir analinis oranžiniai Užauga iki 50-55cm. ilgio ir 2-2.2kg svorio. Kadangi kuojuos yra labai vislios dažniausiai sugaunamos 15-25cm. ilgio ir 150-400g. svorio.",
+      "Kimba": "Kovo, rugpjūčio, rugsėjo mėnesiais",
+      "Nerstas": "Lytiškai subręsta 3-5-aisiais gyvenymo metais. Neršia balandžio, gegužės mėnesiais ant priekrantės augalų gana triukšmingai.",
+      "Minta": "Smulkiais moliuskais, zooplanktonu, augaliniu maistu, dėlėmis, vabzdžiais ir jų lervomis."
+    },
+    {
+      "Id": 8,
+      "Paveikslelis": "lydeka.jpg",
+      "Pavadinimas": "Lydeka",
+      "Kunas": "Ištįsęs",
+      "NugarosSpalva": "Žalsvai pilka",
+      "SonuSpalva": "Pilkšvai žalsvi, dėmėti",
+      "PilvoSpalva": "Šviesus",
+      "Zvynai": "Pailgi",
+      "Apibudinimas": "Patelės kiek didesnės už patinus. Ilgis iki 1,5 m. Nugara žalsvai pilka, šonai pilkšvai žalsvi. Pilvas šviesus. Šonai dėmėti, neretai ant kūno esančios dėmės sudaro skersines juostas. Ši slepiamoji spalva padeda užsimaskuoti. Lydeka gali būti pilkai žalsva, pilkšvai ruda, pilkai gelsva – tai lemia gyvenamoji aplinka. Galva ilga ir plokščia iš viršaus. Žvynai pailgi. Šoninė linija beveik tiesi, ištisinė arba punktyrinė. Ištįsęs kūnas ir tam tikrose vietose esantys pelekai leidžia lydekai staiga užpulti grobį. Žandai su aštriais įvairaus dydžio dantimis, palinkusiais į ryklės pusę. Dantų taip pat būna ant gomurio, liežuvio, žiauninių lankų. Viršutinio žandikaulio dantys pakrypę atgal, kad grobis neišslystų. Apatinio žandikaulio dantys didesni ir išaugę statmenai. Lydekos išgyvena iki 25 metų. Patelės auga greičiau ir gyvena ilgiau nei patinėliai.",
+      "Kimba": "Gegužės, birželio, rugsėjo, spalio mėnesiais",
+      "Nerstas": "Lydeka paprastai neršia kovo pabaigoje arba balandžio pradžioje sėkliuose. Kiaušinėlių skaičius (40 000 - 50 000), priklauso nuo žuvies dydžio. Mailius išsirita po 2-3 savaičių. Pirmas dešimt dienų mailius minta kiaušinėlio turiniu, veliau mailius pilnai pasirengęs gaudyti kitas žuveles.",
+      "Minta": "Lydekos yra nepasotinamos plėšrūnės. Jaunos lydekos skiriasi nuo subrendusių lydekų savo mitybos įpročiais jos linkusios persakioti savo grobį ir vaikytis. Ugtelėję lydekos tūno savo zonoje ir tyko praplaukenčių žuvų. Lydeka savo auką gali pajusti iš daugiau nei 15 m."
+    },
+    {
+      "Id": 9,
+      "Paveikslelis": "lynas.jpg",
+      "Pavadinimas": "Lynas",
+      "Kunas": "Raumeningas",
+      "NugarosSpalva": "Tamsiai žalia arba ruda",
+      "SonuSpalva": "Gelsva",
+      "PilvoSpalva": "Gelsvai žalia",
+      "Zvynai": "Smulkūs",
+      "Apibudinimas": "Nesunkiai atpažįstama žuvis, kūnas raumeningas, spava vyrauja nuo gelsvai žalios ties pilvu ir tamsiai žalios ar net rudos ties nugara. Lyno kūnas padengtas smulkiais giliai į odą įaugusiais žvynais bei storu gleivių sluoksniu, pelekai apvalios formos tamsiai pilki, akys nedideles raudonos ar oranžinės. Turi du nedidelius ūsus viršutinės lūpos šonuose. Taip pat yra išveista ir dekoratyvinė lynų veislė dažniausiai auginama tvenkiniuose. Jų kūno spalva vyrauja nuo geltonos iki oranžinės, pasitaiko nedidelių juodų dėmelių. Lynas gali gyventi iki 30-ies metų, svoris siekia iki 8kg ir gali užaugti iki 70cm ilgio, bet dauguma žuvų net irpilnai subrendusios yra žymiai mažesnės. Dažniausiai sugaunami 25-40cm ilgio ir 0.5-1kg. svorio lynai.",
+      "Kimba": "Rugpjūčio mėnesiais",
+      "Nerstas": "Lynai Lytiškai subręsta 3-5-aisiais gyvenimo metais. Neršia paprastai birželio mėnesio gale, liepos mėnesį kai vandens temperatūra sušyla iki 18-20 ° C. Patelės padeda iki 125.000 ikrų santykiu su 1kg. savo kūno masės. (0.8-1.4mm) skersmens ikrai  paprastai lipdomi sėkliuose ant vandens augalų ar šaknų. Nerštas gali vykti keliais etapais su dviejų savaičių intervalais tarp kiekvienos partijos. Iš kiaušinėlių mailius išsirita po 4-6 dienų, apie 4-5mm ilgio. Pražioje prisitvirtina prie vandens augalų.",
+      "Minta": "Vabzdžių lervomis, dėlėmis, moliuskais, augalų ūgliais, dumbliais."
+    },
+    {
+      "Id": 10,
+      "Paveikslelis": "mekne.jpg",
+      "Pavadinimas": "Meknė",
+      "Kunas": "Apvalus, verpstės",
+      "NugarosSpalva": "Tamsiai melsva su žaliu atspalviu",
+      "SonuSpalva": "Pilkšvai sidabriški su gelsvu atspalviu",
+      "PilvoSpalva": "Sidabrinis",
+      "Zvynai": "Smulkūs",
+      "Apibudinimas": "Išvaizada panaši į šapalo kūnas apvalus verpstės formos, šiek tiek aukštesnis ir plokštesnis lyginant su šapalu. Galva siauresnė ir trumpesnė. Nugara tamsiai melsva su žalsvu atspalviu, šonai pilkšvai sidabriški su gelsvu atspalviu, pilvas sidabro spalvos. Žvynai smulkūs, nugarinis ir uodeginis pelekai pilki, krūtininiai, pilvo ir analinis raudoni. Akys žalsvai gelsvos, su tamsia dėmele viršutinėje dalyje. Meknės užauga iki 70-75cm. ilgio ir 8kg. svorio. Dažniausiai sugaunamos 25-35cm. ir 500g-1.5kg svorio žuvys.",
+      "Kimba": "Mėnesiais",
+      "Nerstas": "Meknės lytiškai subręsta 4-5-ais gyvenymo metais. Neršia gegužės mėnesį seklumose ant žvigždėto grunto.",
+      "Minta": "Vabždžiais jų lervomis, kirmėlėmis, vėžiagyviais, mosliuskais, dumbliais. Orams vėstant minta kitų žuvų mailiumi, varlėmis."
+    },
+    {
+      "Id": 11,
+      "Paveikslelis": "paprastasis-karosas.jpg",
+      "Pavadinimas": "Paprastasis karosas",
+      "Kunas": "Aukštas",
+      "NugarosSpalva": "Rusvai žalia",
+      "SonuSpalva": "Auksiniai",
+      "PilvoSpalva": "Sidabrinis",
+      "Zvynai": "Stambūs, kieti",
+      "Apibudinimas": "Kūnas aukštas iš šonų plokščias, uodeginė dalis trumpa. Karoso nugara rusvai žalsva, šonai aukso spalvos. Žvynai stambūs, kieti. Nugarinis ir uodeginis pelekai pilki, krūtininis, pilvo ir analinis šiek tiek rausvi su pilkšvai rudu atspalviu. Karosai užauga iki 40cm ilgio ir 3-4.5kg svorio. Dažniausiai žvejams užkimba 150-400g. svorio karosai. Gyvena karosai uždumblėjusiuose tvenkiniuose, prūduose, ežeruose, tvenkiniuose, upėse bei jų senvagėse.",
+      "Kimba": "Mėnesiais",
+      "Nerstas": "Karosai lytiškai subręsta 3-4-aisiais gyvenimo metais. Neršia gegužės-liepos priekrantės zonoje ant vandens augalų. Kartais suskryžmina su karpiais, sidabriniais karosais, taip pat su raudėmis.",
+      "Minta": "Dumbliais, vabzdžių lervomis, dėlėmis, moliuskais."
+    },
+    {
+      "Id": 12,
+      "Paveikslelis": "plakis.png",
+      "Pavadinimas": "Plakis",
+      "Kunas": "Aukštas, kuprotas",
+      "NugarosSpalva": "Tamsi, pilkšvai žalsva",
+      "SonuSpalva": "Pilkšvai sidabriški",
+      "PilvoSpalva": "Baltas",
+      "Zvynai": "Dideli",
+      "Apibudinimas": "Kūnas aukštas, kuprotas iš šonų plokščias. Nugara tamsi, pilkšvai žalsva, šonai pilkšvai sidabriški, pilvas baltas. Akys didelės šviesios viršutinėje dalyje gelsvos. Žvynai dideli. Pelekai pilki. Žiotys pusiau apatinės. Užauga iki 40cm. ilgio ir 1.5kg. svorio. Dažniausiai pasitaiko 300-400g. žuvys. Auga lėtai. Plakiai gyvena ir maitinasi būriais, aptinkami ir seklumose ir gilesnėse vietose. Laikosi dažniausiai prie dugno.",
+      "Kimba": "Liepos, rugpjūčio, rugsėjo mėnesiais",
+      "Nerstas": "Lytiškai subręsta 3-4-aisiais gyvenimo metais. Neršia gegužės-birželio mėnesiais ant priekrantės augalų. Plakių mailius labai panašus į karšiukų. Neršiant gali susimaišyti su karšiais, raudėmis ar kuojomis.",
+      "Minta": "Vėžiagyviais, kirmėlėmis, dėlėmis, vabzdžių lervomis."
+    },
+    {
+      "Id": 13,
+      "Paveikslelis": "raude.jpg",
+      "Pavadinimas": "Raudė",
+      "Kunas": "Plokščias, aukštas",
+      "NugarosSpalva": "Rudai žalsva",
+      "SonuSpalva": "Blizgantys, auksiniai",
+      "PilvoSpalva": "Auksinis",
+      "Zvynai": "Dideli",
+      "Apibudinimas": "Kūnas plokščias, aukštas. Nugara rudai žalsva, šonai bl;izgantys auksinės spalvos. Akys oranžinės, didokos su raudona dėmele viršuje. Žvynai dideli, pelekai ryškiai raudoni, tik nugarinis ties pamatu tamsiai pilkas. Užauga iki 48cm. ilgio ir 2kg. svorio. Dažniausiai sugaunama 10-25 cm ilgio ir 50-200 g. svorio. Raudės sutinkamos beveik visuose lietuvos telkiniuose.",
+      "Kimba": "Birželio, liepos, rugpjūčio mėnesiais",
+      "Nerstas": "Lytiškai subręsta 3-4-aisiais gyvenimo metais. Neršia gegužės-birželio mėnesiais ant priekrantės augalų.",
+      "Minta": "Dumbliais, bestuburiais, vabzdžiais ir jų lervomis, kitų žuvų mailiumi."
+    },
+    {
+      "Id": 14,
+      "Paveikslelis": "salatis.jpg",
+      "Pavadinimas": "Salatis",
+      "Kunas": "Verpstės",
+      "NugarosSpalva": "Melsvai pilka",
+      "SonuSpalva": "Sidabriški",
+      "PilvoSpalva": "Baltas",
+      "Zvynai": "Smulkūs",
+      "Apibudinimas": "Kūnas verpstės formos iš šonų plokščias. Nugara melsvai pilka, šonai sidabriški, pilvas baltas. Pelėkai pilki, uodeginis ir nugarinis pelekai tamsiais galais, analinis, krūtininis ir pilvinis pelekai ties pamatais rausvi. Žvynai smulkūs, žiotys plačios, apatinis dalis šiek tiek atsikišus į priekį. Salatis užauda iki 85cm. ilgio  ir 8kg. svorio. Dažniausiai sugaunami 1-3kg. salačiai. Gyvena salačiai visose didžiausiose Lietuvos upėse.",
+      "Kimba": "Gegužės, liepos, rugpjūčio, rugsėjo, spalio mėnesiais",
+      "Nerstas": "Salačiai lytiškai subręsta 4-ais gyvenimo metais. Neršia balandžio mėnesį seklumose ant žvirgždėto grunto.",
+      "Minta": "Salačiai smulkiomis žuvelėmis, varlėmis."
+    },
+    {
+      "Id": 15,
+      "Paveikslelis": "samas.jpg",
+      "Pavadinimas": "Šamas",
+      "Kunas": "Pailgas",
+      "NugarosSpalva": "Tamsiai žalsva",
+      "SonuSpalva": "Šviesūs, dėmėti",
+      "PilvoSpalva": "Baltas, padengtas juodai melsvomis dėmėmis",
+      "Zvynai": "Neturi",
+      "Apibudinimas": "Kūnas pailgas galva didelė plokščia iš viršaus. Uodeginė kūno dalis ilga, iš šonų plokštėjanti ir žemėjanti. Šamo nugara tamsiai žalsva, šonai šiek tiek šviesesni dėmėti. Pilvas baltas padengtas juodai melsvomis dėmėmis. Pelekai tamsūs. Oda be žvynų, minkšta, gleivėta. Ties burna 3 poros ūsų: ant viršutinio žando 1 pora ilgų, ant apatinio – 2 poros trumpų. Apatinis žandas ilgesnis už viršutinį. Plačios žiotys. Burna kaip šepetukas pilna smulkių aštrių dantų. Šamas stambiausia plėšrūnė gyvenanti mūsų vandenyse. Lietuvoje ši dugninė žuvis gyvena iki 30m. ir užauga iki 100-150 kg svorio, tačiau Pietų Europoje šamas gali užaugti iki 300 kg ir 5m ilgio. Šamai didžiąją savo gyvenymo dalį praleidžia tūnodami duobėse ar tarp dugno kliuvinių, tik maitindamiesi nakties metu jie pakyla į vandens paviršių.",
+      "Kimba": "Liepos, rugpjūčio, rugsėjo mėnesiais",
+      "Nerstas": "Šamai išneršia apie 500 000 ikrų vandens telkinių pakraščiuose birželio mėnesį. Patinai saugo ikrus kol iš jų išsirita mailius. Paprastai tai trunka nuo 3-jų iki 10-ies dienų.",
+      "Minta": "Žuvimis, moliuskais, varlėmis, vandens žiurkėmis, vandens paukščių jaunikliais."
+    },
+    {
+      "Id": 16,
+      "Paveikslelis": "sapalas.jpg",
+      "Pavadinimas": "Šapalas",
+      "Kunas": "Apvalus, verpstės",
+      "NugarosSpalva": "Tamsi su žalsvu atspalviu",
+      "SonuSpalva": "Sidabriški",
+      "PilvoSpalva": "Sidabriškas",
+      "Zvynai": "Stambūs",
+      "Apibudinimas": "Kūnas apvalus verpstės formos. Nugara tamsi su žalsvu atspalviu, šonai ir pilvas sidarbriški. Stambūs šapalai turi gelsvą atspalvį. Galva plati, stora, žiotys galinės, didelės. Akys geltonos su ruda dėmele viršutinėje dalyje. Žvynai stambūs, kraštuose su juoda dėmele. Nugarinis ir uodeginis pelekai pilki, krūtininiai gelsvi arba oranžiniai, pilvo ir analinis raudoni. Šapalai užauga iki 70-73cm. ilgio ir 8kg. svorio. Dažniausiai sugaunami 300-1kg. šapalai. Šapalai stiprios žuvys ir pasižymi dideliu kovingumu. Gyvena upėse, mėgsta švarų deguonies prisotintą vandenį, pagaunamas ir ežeruose.",
+      "Kimba": "Birželio, liepos, rugpjūčio, rugsėjo mėnesiais",
+      "Nerstas": "Šapalai lytiškai subręsta 4-5-ais gyvenimo metais. Neršia gegužės mėnesį.",
+      "Minta": "Bestuburiais, vabzdžiais, jų lervomis, kitomis žuvimis, vėžiais, varlėmis."
+    },
+    {
+      "Id": 17,
+      "Paveikslelis": "sidabrinis-karosas.jpg",
+      "Pavadinimas": "Sidabrinis karosas",
+      "Kunas": "Aukštas",
+      "NugarosSpalva": "Tamsiai pilka",
+      "SonuSpalva": "Sidabriški",
+      "PilvoSpalva": "Baltas",
+      "Zvynai": "Stambūs",
+      "Apibudinimas": "Kūno forma panašus į auksinį karosą. Sidabrinio karoso kiek ilgesnė uodeginė dalis, storesnė nugara ir žemesnis. Nugara tamsiai pilka, šonai sidabriški, pilvas baltas. Žvynai stambūs, visi pelekai pilki. Sidabriniai karosai užauga iki 50cm. ilgio ir 3-5kg. svorio. Gyvena visų tipų vandens telkiniuose.",
+      "Kimba": "Mėnesiais",
+      "Nerstas": "Sidabriniai karosai lytiškai subręsta 3-ais gyvenimo metais. Neršia gegužės-liepos mėnesiais priekrantės zonoje ant augalų.",
+      "Minta": "Dumbliais, vėžiagyviais, vabzdžių lervomis."
+    },
+    {
+      "Id": 18,
+      "Paveikslelis": "starkis.jpg",
+      "Pavadinimas": "Starkis",
+      "Kunas": "Verpstės, ilgas",
+      "NugarosSpalva": "Žalsvai pilka",
+      "SonuSpalva": "Gelsvos plieno",
+      "PilvoSpalva": "Baltas",
+      "Zvynai": "Kieti",
+      "Apibudinimas": "Kūnas verpstės formos ilgas, galva smaili.Nugara žalsvai pilka, šonai gelsvos plieno spalvos su 8-12 skersinių dryžių. Pilvas baltas, akys didelės, šviesios. Žvynai vidutinio dydžio, kieti. Žiotys vidutinės su gaug smulkių dantų. Žočių priekyje yra dvi poros didesnių lyg iltys dantų. Pelekai pilkšvi, nugariniai du su tamsiomis dėmelėmis. Starkiai užauga iki 135cm. ilgio ir 20kg. svorio. Dažniausiai sugaunomos 1-3kg. žuvys. Starkiai sėslios žuvys, gyvena didžiosiose Lituvos upėse, tvenkiniuose, ežeruose, sugauni ir Baltijos jūros priekrantėje.",
+      "Kimba": "Rugpjūčio, rugsėjo, spalio mėnesiais",
+      "Nerstas": "Starkiai lytiškai subręsta 2-4-ais gyvenimo metais. Neršia gegužės mėnesį  vandens telkinių pakraščiuose ant žvirgždėto dugno. Patinai saugoja nerštavietę kol išsirita mailius.",
+      "Minta": "Žuvimis, varlėmis,  buožgalviais, vingiliais."
+    },
+    {
+      "Id": 19,
+      "Paveikslelis": "stinta.jpg",
+      "Pavadinimas": "Stinta",
+      "Kunas": "Nedidelis, verpstės",
+      "NugarosSpalva": "Žalsvai pilkšva",
+      "SonuSpalva": "Sidarbriški su melsvu atspalviu",
+      "PilvoSpalva": "Baltas",
+      "Zvynai": "Smulkūs",
+      "Apibudinimas": "Nedidelė verpstės formos, plokščiais šonais žuvis. Stintos nugara žalsvai pilšvos spalvos, šonai sidabriški su melsvu atspalviu, pilvas baltas. Akys šviesios didelės. Stinto turi specifinį agurkų kvapą. Užauga iki 22 - 30cm. ir 75-110gr. svorio. Dažniausiai sugaunamos 18-20сm. ilgio. Pagal gyvenimo būdą stintas galima skirstyti i dvi grupes vietines stintas kurios gyvena giliuose Lietuvos ežeruose vadinamas stintelėmis ir stintas  gyvenančias Baltijos jūroje. Baltijos jūroje gyvenančios stintos atplaukia tik nerštui į nemuno žemupį ir jo intakus. Ežeruose gyvenančios stintos mažesnės nei jūrinės.",
+      "Kimba": "Vasario, kovo mėnesiais",
+      "Nerstas": "Stintos neršia ant smelėto dugno vasario mėn. pabaigoje. - kovo menesį kai vandens temperatūra sušyla iki 9C°. Patelė išleidžia iki 40 000 ikrų . Dažnai pasitaiko jog po neršto stintos žūva.",
+      "Minta": "Smulkiais vėžiagyviais, vabzdžių lervomis, žuvų mailiumi taip pat ir savo."
+    },
+    {
+      "Id": 20,
+      "Paveikslelis": "strepetys.jpg",
+      "Pavadinimas": "Strepetys",
+      "Kunas": "Apvalus, verpstės",
+      "NugarosSpalva": "Tamsiai pilka",
+      "SonuSpalva": "Pilkšvai melsvi su blankiu gelsvumu",
+      "PilvoSpalva": "Sidabrinis",
+      "Zvynai": "Vidutiniai",
+      "Apibudinimas": "Kūnas apvalus verpstės formos. Nugaratamsiai pilka, šonai pilkšvai melsvi su blankiu gelsvumu, pilvas sidabrinės spalvos. Nugarinis ir uodeginis pelekai pilki, o kiti gelsvi arba oranžiniai. Žvynai vidutinio dydžio. Žiotys pusiau apatinės, nedidelės. Užauga strepetys iki 30cm. ilgio ir 400g. svorio. Dažniausiai sugaunami 250-300g. strepečiai. Strepetys atsargi žuvis, laikosi nedideliais būreliais, mėgsta sraunų ir švarų vandenį.",
+      "Kimba": "Mėnesiais",
+      "Nerstas": "Lytiškai subręsta trečiaisiais gyvenimo metais. Neršia vandeniui sušilus iki 6-8C balandžio mėnesį ant kieto žvirgždėto dugno.",
+      "Minta": "Dumbliais, bestuburiais, vabzdžiais ir jų lervomis."
+    },
+    {
+      "Id": 21,
+      "Paveikslelis": "ungurys.jpg",
+      "Pavadinimas": "Ungurys",
+      "Kunas": "Ilgas, cilindrinis",
+      "NugarosSpalva": "Rusvai žalsva",
+      "SonuSpalva": "Tamsi",
+      "PilvoSpalva": "Gelsvai baltas",
+      "Zvynai": "Smulkūs",
+      "Apibudinimas": "Ungurio kūnas ilgas cilindriškos formos, nugara rusvai-žalsva, pilvas gelsvai-baltas. Oda slidi padengta labai smulkiais žydais. Ungurio galva nedidelė pailga iš, šonų šiek tiek suplota. Akys nedidelės geltonai-bronzinės spalvos. Burna pilna smulkių ir aštrių dantų. Laikosi prie dugno apatiniuose vandens sluoksniuose nepriklausomai nuo grunto struktūros, tačiau labiau mėgsta dumblėtą ar molingą dugną. Esant dideliems karščiams unguriai gali pakilti į vandens paviršių ir slėptis augalų šešėlyje. Dažniausiai tūno įvairiose slėptuvėse: povandeniniuose urvuose, po akmenimis, kelmais, tankiuose žolynuose ar dumble. Mažesni unguriai laikosi arčiau krantų tuo tarpu didesnieji gentainiai laikosi gelmėje. Gyvena unguriai iki 25m amžiaus ir užauga iki 2m. ilgio ir 5kg. svorio.",
+      "Kimba": "Birželio, liepos, rugpjūčio mėnesiais",
+      "Nerstas": "Artėjant neršto laikui ungurio mitybos organai apmiršta ir užleidžia vietą ikrams ar pienėms. Beveik visą savo gyvenimą ungurys praleidžia gėlame vandenyje. Tačiau artėjant nerštui visi unguriai migruoja į Sargaso jūrą, kur balandžio-gegužės mėnesiais 400-500m gylyje neršia ir vėliau miršta. Patelė išleidžia apie puse milijono ir daugiau ikrų. Išsiritęs ungurių mailius pakyla į vandens paviršių ir patenka į Golfo srovę. Per 2-3 metus golfo srovė atneša juos iki vakarų Europos krantų. Ungurių mailius tuo metu būna apie 7-8 cm. ilgio ir vadinamas stikliniais unguriais. Toliau unguriai migruoja į upes ir ežerus.",
+      "Minta": "Maitinasi nakties metu priekrantės zonose sėkliuose, tačiau neatsisako maisto ir dieną jei jis randasi netoli. Minta vabzdžių lervomis, moliuskais, varlėmis, smulkiomis žuvelėmis, ikrais. Labiausiai aktyvūs unguriai šiltuoju metu laiku."
+    },
+    {
+      "Id": 22,
+      "Paveikslelis": "usorius.jpg",
+      "Pavadinimas": "Ūsorius",
+      "Kunas": "Verpstės, aptakus, raumeningas",
+      "NugarosSpalva": "Žalsvai gelsva",
+      "SonuSpalva": "Žalsvai gelsva",
+      "PilvoSpalva": "Šviesus",
+      "Zvynai": "Pailgi",
+      "Apibudinimas": "Kūnas primena verpstės formą, aptakus, raumeningas. Nugara ir šonai žalsvai gelsvi, pilvas šviesus. Žvynai pailgos formos, nugarinis pelekas pilkas, uodeginis juosvai raudonas,Krūtininiai, pilvo ir analinis gelsvai rausvi. Žiotys aptinės, pusmėnulio formos, kraštuose yra po ūselį. Ūsoriai užauga iki 90cm. ilgio ir 8-10kg svorio. Dažniausiai sugaunami 40-60cm. ilgio ir 2-3.5kg. svorio. Ūsorius srovinė dugninė žuvis, gyvena didžiosiose Lietuvos upėse, mėgsta švarų vandenį.",
+      "Kimba": "Liepos, rugpjūčio mėnesiais",
+      "Nerstas": "Lytiškai subręsta 3-5-aisiais gyvenimo metais. Neršia birželio mėnesį ant žvirgždėto grunto srauniose vietose. Ūsorių ikrai žmonėms nuodingi, todėl nepatariama valgyti.",
+      "Minta": "Dugninias bestuburiais, žuvų mailiumi, vabzdžių lervomis."
+    },
+    {
+      "Id": 23,
+      "Paveikslelis": "vegele.jpg",
+      "Pavadinimas": "Vėgėlė",
+      "Kunas": "Pailgas",
+      "NugarosSpalva": "Tamsiai rudai žalsva su juodomis dėmelėmis",
+      "SonuSpalva": "Šviesesni gelsvai rusvi su dėmelėmis",
+      "PilvoSpalva": "Baltas",
+      "Zvynai": "Maži",
+      "Apibudinimas": "Kūnas pailgas, galva plokščia. Ilga ir iš šonų plokščia uodeginė dalis, siaurėjanti link uodegos. Nugara tamsiai rudai žalsva su juodomis netaisyklingos formos dėmelėmis. Šonai šviesesni gelsvai rusvi taip pat su dėmelėmis. Pilvas baltas. Vėgėlės kūnas gleivėtas, maži žvyneliai giliai įaugę į storą odą todėl atrodo jog jų ir nėra. Pelekai tamsiai rudi padengti juodomis dėmėmis, tik krūtininiai pelekai balti. Ant apatinio žandikaulio turi vieną ūselį. Burna pilna mažų dantukų. Vėgėlė paplitusi daugelyje Lietuvos upių, Kuršių mariose, bei ežeruose. Vėgėlės vadinamos slapukėmis, kadangi dienomis tūno slėptuvėse ir maitinais išskirtinai tik tamsiuoju paros metu. Vengia dumblėtu vietų. Geriausiai kimba esant darganotam, vėjuotam orui. Kuršių marių vėgėlės užauga didžiausios pasitaiko dažniausiai nuo 1,5-3kg., tačiau gali užaugti ir iki 8kg., Rusijoje kaip skelbiama pasitaiko ir virš 20kg. sveriančių žuvų. Upėse ar ežeruose ba gyvenančios vėgėlės kiek mažesnės ir dažniausiai užkimba iki 1-1.5kg. sveriančios žuvys.",
+      "Kimba": "Spalio, lapkričio, gruodžio mėnesiais",
+      "Nerstas": "Vėgėlės neršia gruodžio - sausio mėnesiais, ant žvirgždėtu grunto rausia lizdus. Patinai neršto metu tampa agresyvūs ir gina nerštavietes, puola pro šalį plaukiančias žuvis. Tuo dažnai naudojasi brakonieriai, gaudydami žuvis neleistinai žūklės būdais.",
+      "Minta": "Nedidelėmis žuvelėmis, varlėmis, sliekais."
+    },
+    {
+      "Id": 24,
+      "Paveikslelis": "ziobris.jpg",
+      "Pavadinimas": "Žiobris",
+      "Kunas": "Vidutinio aukščio",
+      "NugarosSpalva": "Melsvai pilka",
+      "SonuSpalva": "Sidabriški",
+      "PilvoSpalva": "Sidabriški",
+      "Zvynai": "Smulkūs",
+      "Apibudinimas": "Kūnas vidutinio aukščio, plokščiais šonais. Nugara melsvai pilkos spavos, šonai ir pilvas sidabriški. Pelekai pilkšvai juosvos spalvos, tik krūtininiai ir analiniai gelsvi. Žiotys apatinės. Žiobriai užauga iki 55cm. ilgio ir 3kg. svorio. Dažniausiai sugaunami 25-35cm. ilgio ir iki 1kg. žobriai.",
+      "Kimba": "Balandžio, liepos, rugpjūčio mėnesiais",
+      "Nerstas": "Žiobriai lytiškai subręsta 4-5-ais gyvenimo metais. Neršia gegužės-birželio mėnesiais srauniose seklumose ant smelėto ir žvirgždėto grunto. Žiobriai neršia upėse tačiau gyvena jūroje. Kasmet vyksta dvi sezoninės žiobrių migracijos į upes, pavasarinė(balandžio-gegužės mėnesiais) ir rudeninė(spalio-lapkričio mėnesiais).",
+      "Minta": "Bestuburiais, vėžiagyviais, vabzdžių lervomis, neatsisako žaliųjų dumblių."
+    }
+  ],
+  [
+    {
+      "Id": 1,
+      "Menuo": "sausio",
+      "Informacija": "Upėtakininkus šiuo metu dažniausia traukia „savojo“ upelio ilgesys. Jeigu gaudai upėtakius ne vienus metus, nori nenori užmezgi su pamėgtomis upelėmis ypatingą ryšį, lyg su mylimais žmonėmis. Į pirmąją žūklę dažnai eini su jauduliu, kaip į pasimatymą su savo mylimąja. Kiekviename upelės posūkyje, kiekvienoje duobelėje tikiesi sulaukti to nepakartojamo vaizdo, kaip paskui tavo masalą iš duobės pakyla tamsus upėtakio šešėlis... Mėnesiui įpusėjus, sausio 15 d. baigiasi vėgėlių žūklės draudimas. Retas kuris važiuoja jų žvejoti prie upių šiuo metu. O visai ir be reikalo. Tadas Žiupka, vėgėlių žūklės fanatas, sako, kad pirmosiomis dienomis po draudimo, jeigu tik neina ižas, vėgėlės kimba daug geriau, negu iki draudimo. 5 ar 8 varliagalves per vakarą (grįžtančios vėgėlės dažnai kimba dar net nesutemus!) „išsėdėti“ – nieko ypatingo. Vėliau vis daugiau vėgėlių migruoja Kuršių marių link ir laimikiai mažėja. Tačiau iki pat vasario pradžios Nemune jų žūklė būna vaisinga, ir, kas svarbu, visiškai rami. Visos vietos dabar prieinamos, nes žvejų beveik nebūna. Niekas nesutrukdo tavo ramybės ir pabuvimo su upe ir visa gamta. Nebent ant meškerės galo ar įsmeigtos vytelės užkabintas ir netikėtai sutilindžiavęs varpelis, pranešantis, kad tavo masalu susidomėjo JI. Vis dėl to sausis – vidurinysis, ir, pasak sinoptikų, šalčiausias žiemos mėnuo. Ne kiekvienais metais ši tendencija pasitvirtina, tačiau visgi įprasta, jog būtent šio mėnesio viduryje ar pabaigoje mūsų krašte stoja rimtesni šalčiai, džiuginantys dešimtis tūkstančių žūklės nuo ledo mėgėjų. Mažesniuose ežeriukuose ir tvenkiniuose, kur sėkmingai žvejojome gruodį, ledas greit sustorėja ir Kibimas darosi kaprizingesnis. Ypač ešerių. Pirmledy noriai stvarstę blizgutes ir švytuokles dryžuotieji dabar akivaizdžiai sutingsta. Daug tenka išlieti prakaito ir gręžti ekečių, kol randi aktyvesnių žuvų būrį. Tačiau didesni šalčiai atveria visai kitas galimybes, nes sukausto didžiuosius mūsų ežerus ir marias, sustabdo dalį upių. O juk ir ką besakytum, bet didesniuose vandens telkiniuose būna daugiau stambių žuvų. Ir čia visada stipresnis tikėjimas pagauti tikrų kuprių, sveriančių bent pusę kilogramo ir daugiau ir ne po vieną. Vadinamoji balta žuvis, karšiai ir kuojos, sausį dažniausiai dar nėra itin aktyvūs. Jų laikas prasidės artėjant pavasariui, kai dienos bus ilgesnės ir saulės spinduliai sužadins alkio ir, galbūt, būsimo giminės pratęsimo instinktus. Bet vis dėl to yra ežerų, kur karšiai kimba geriausia būtent sausį. Tad verta pasiklausinėti vietinių žvejų, kur ir kada jie žvejoja. Gal būt jūsų pasirinktas ežeras yra vienas iš tokių. Blizgiavimo fanatikams sausis yra paskutinė galimybė paieškoti lydekų. Vasarį prasidės jų draudimas. Tokių meškeriotojų gretos kasmet pastebimai auga, nes vis daugiau žmonių atranda, jog lydekų žūklė švytuoklėmis, „rattlin“ tipo vobleriais ar kitais dirbtiniais masalais, yra ne tik daug sportiškesnė, įdomesnė ir dinamiškesnė, bet ir rezultatyvesnė už žūklę „spąstais“ – vėliavėlėmis ar skrituliais."
+    },
+    {
+      "Id": 2,
+      "Menuo": "vasario",
+      "Informacija": "Šio mėnesio turbūt labiausia laukia šalies stintautojų armija, skaičiuojanti dešimtis tūkstančių ir pasiruošusi lyg skėriai pasėlius nusėti Kuršių marių ledą ir pasimėgauti puikia kimbančiomis žuvelėmis. Šviežiai perpjauto agurko kvapas visą mėnesį sklandys virš marių, jeigu tik laikysis ten ledas. Tačiau ne vien šios nedidelės, bet nuožmios žuvelės ir nuostabūs gamtos vaizdai vilioja į Pamarį meškeriotojus. Gaudant stintas kur nors prie Nidos ar Preilos neretas svečias – užkibusi naktinė klastūnė vėgėlė. Jeigu ji pagriebė pakabintą ant skritulio ar vėliavėlė kablio stintelę, tai didelių problemų tikriausia nebus.Į mėnesio galą paprastai geriau pradeda meškeriotojų „velnius“, ar rečiau blizges ar avižas atakuoti didieji marių ešeriai.Rytiniame marių pakraštyje, ypač arčiau Rusnės ar Ventės rago, šiuo metu masiškai sujuda vadinamoji balta žuvis. Gražuolės raudonakės kuojos, įmitusios iki puskilogramio, o kartais ir gerokai daugiau, greita susiburia prie gausiau pajaukintos eketės ir mielai išbando meškeriotojų valo stiprumą. Tuo metu jų nepagausi, nebent visai neuždėjęs ant avižėlės masalo. Laimingesniems ar išrankesniems žvejams daugiau pavaikščiojus, pavyksta aptikti ir karšių ar žiobrių būrelius.Kad pagautum žuvį vasarį, tikrai nebūtina ten važiuoti. Mūsų artimiausiuose ežeruose ir tvenkiniuose šiuo metu taip pat vyksta pokyčiai. Kuo aukščiau kasdien kyla saulė ir kuo ilgiau trunka diena – tuo labiau užaštrėja ir žuvų instinktai. Sausio pabaigoje beveik miegoję ešeriai, mėnesiui įpusėjus vis aktyviau pradeda judinti pelekus ir ieškoti skanesnio kąsnio. Gal ir ne tiek, kad iškart pultų, kaip pirmledį, stvertų pirmą pasitaikiusią blizgę. Bet tikrai su malonumu surydami vienu įkvėpimu skanią avižėlę su trūkliais. Daugelyje ežerų sukruta ir karšiai. Ypač jei kažkas kurį laiką negailėdamas pila skanų jauką. Mėnesio pabaigoje, ypač jei prasideda atlydžiai, į nendrynų pakraščius dažnai sueina ir stambios raudės. Gaudai smulkmę avižėle ir jei gerai nesusireguliavai stabdžio, žiūrėk, staiga tik pokšt – ir avižėlės kaip nebūta. Dažniausia puolame kaltinti dryžuočius ir net nenutuokiame, kad čia pašmaikštavo auksu žėrinti raudonakė, kai kuriuose ežeruose pasiekianti vos ne iki kilogramo dydį. Labai įdomu šiuo metu žvejoti vidutinio dydžio upėse nuo ledo. Tokiose kaip Nevėžis, Dubysa, Šešupė ar Minija. Labiausiai, bent jau mane čia vilioja nežinomybė, nes niekada nežinai, kas užkibs. Gal tik sprindinis strepečiokas ar nedaug augesnis šapaliokas. O gal – įmitęs žiobris ar nuožmus, per kilogramą sveriantis storasprandis šapalas? Čia gali tikėtis bet kokios žuvies, todėl už kiekvieno upės posūkio vis tikiesi siurprizo. Ambicingesni blizgiautojai gali pabandyti pagauti iš po ledo sterką. Sterko prie eketės nuotrauka – tai neabejotina blizgiautojo šaunumo garantas. Jam neprilygs jokie ešeriai. Iš tiesų, ne daug kas gali pasigirti tokiu trofėjumi, todėl vis daugiau meškerės brolių ryžtasi avantiūrai pabandyti laimę didesniuose gyliuose ar mažiau pažįstamuose vandens telkiniuose. Šiomis žuvimis žiemą garsėja Pravalo ežeras. Tačiau sterkų juk yra didžiojoje dalyje užtvankų ir keliasdešimtyje kitų ežerų. Nekalbant jau apie tokį vandens telkinį kaip Kauno marios. Vis dažniau meškeriotojų iš Lietuvos važiuoja sterkų gaudyti į Aistmarias."
+    },
+    {
+      "Id": 12,
+      "Menuo": "gruodžio",
+      "Informacija": "Niekas taip labiau nelaukio šio mėnesio, kaip vėgėlių žūklės gerbėjai. Tos dvi gruodžio savaitės yra jiems tikras aukso laikas (o paskutiniu laiku – dažnai ir vienintelė reali galimybė) pagauti į nerštavietes iš Kuršių marių plaukiančią padoraus dydžio varliagalvę gražuolę. Gruodžio 16 dieną prasidės jų žūklės draudimas. Kol nėra ledo – beveik visuose vandens telkiniuose mūsų masalų nekantriai laukia lydekos. Gruodį jų Kibimas neretai būna daug geresnis, nei lapkritį. Lyg aštriadantės nujaustų, kad tuoj tuoj, užsidės ledas ir reikia iki to laiko paėsti kaip reikiat.. Tad nors ir šalta, šlapia, nemalonu - verta keletą valandų pažvarbti valtelėje ar pasivaikščioti krantais, mojuojant spiningu. Ne ką mažiau sėkmingas, nors ir nelengvas šis mėnuo, jei nėra ledo yra dugninės ir plūdinės mėgėjams. Nemune, Nevėžyje, Neryje žemiau Jonavos bei pačiame Vilniaus mieste, o gal būt kitose upėse, kur tik galima žvejoti, šiuo metu visai neblogai kimba kuojos, šapalai ir žiobriai. Entuziastams arba laimės kūdikiams pasiseka pagauti ir karšių. Kol upe neplaukia lytys, visa upių žuvis būriuojasi duobėse ir kažkiek maitinasi. Taigi, ir kimba. Reikia tik gaudyti. Gruodis – puikus metas ir žūklei jūroje. Nors dienos trumputėlės, bet pasitaikius nevėjuotam orui galima visai netoli – vos per 3-5 kilometrus nuo kranto pagauti labai gražių menkių. Mažiausia porai metų su jomis teks atsisveikinti, tad kodėl joms nepadaryti įspūdingų išleistuvių. Jūroje velkiautojai šiuo metu džiaugiasi lašišomis. Jūrinės dugninės mėgėjai irgi laimingi, jei tik nesiautėja vėjas. Mat per naktį galima iki soties atsigaudyti gražių, lyg lėkštė prie krantų priartėjusių plekšnių. Draudimai. Gruodžio 16 d. prasideda vėgėlių žūklės draudimas. Gruodžio 25 d. ( tą dieną jau galima žvejoti) baigiasi lašišų ir šlakių gaudymo apribojimas. Tačiau žvejojant šiuo metu mažesnėse upėse, gali užkibti upėtakių, kuriuos privalu paleisti. Jų draudimas tęsiasi iki pat Naujųjų. Taip pat draudžiama šiuo metu gaudyti šamus, sykus bei siauražnyplius vėžius. Iki gruodžio 25 d. draudžiama žvejoti žūklės taisyklių 4 priede nurodytose upėse ir upių ruožuose, iki gruodžio 31 d. – 2 priede pažymėtose."
+    }
+  ],
+  [
+    {
+      "Id": 1,
+      "Menuo": "sausio",
+      "Zuvys": [
+        {
+          "Zuvis": "Ešerys",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Blizgiavimas, avižėle ir 'velniu', plūdine, fideris",
+          "EfektyviausiMasalai": "Vertikalios blizgutės, švytuoklės, avižėlės, 'velniai', uodo trūklio lervos ar jos imitacija, ešerio akis"
+        },
+        {
+          "Zuvis": "Lydeka",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Blizgiavimas, spiningas",
+          "EfektyviausiMasalai": "Švytuoklės, vertikaliam gaudymui tinkantys vobleriai, blizgutės, atvirame vandenyje - visi dirbtiniai EfektyviausiMasalai"
+        },
+        {
+          "Zuvis": "Karšis",
+          "Kibimas": "Silpnas, kai kuriuose telkiniuose vidutiniškas",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Avižėlės, plūdinė, fideris",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio lervos, musės lervos"
+        },
+        {
+          "Zuvis": "Plakis",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Avižėlė, plūdinė, fideris",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio ir musės lervos"
+        },
+        {
+          "Zuvis": "Kuoja",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Kuršių marios, Nemunas",
+          "EfektyviausiGaudymoBudai": "Avižėlės, plūdinė, fideris",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio lervos, mažos musės lervos (pinkos)"
+        },
+        {
+          "Zuvis": "Vėgėlė (leidžiama gaudyti tik nuo sausio 16 d.)",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Kuršių marios, Nemunas",
+          "EfektyviausiGaudymoBudai": "Blizgė, dugninė meškerė ar vėliavėlės",
+          "EfektyviausiMasalai": "Blizgės su užkabintu žuvies gabaliuku, žuvelė, sliekai"
+        },
+        {
+          "Zuvis": "Stinta",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Kuršių marios",
+          "EfektyviausiGaudymoBudai": "Avižėlės, plūdinė, fideris",
+          "EfektyviausiMasalai": "Fosforinės arba paprastos lengvos avižėlės su užmautais žuvų gabaliukas"
+        },
+        {
+          "Zuvis": "Šlakiai ir lašišos (leidžiama žvejoti tik įsigijus toje upėje galiojančią kortelę)",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Neries, Šventosios, Dubysos, Minijos ir kitos upės ir jų ruožai kur organizuojama šių žuvų limituota žūklė (žr. žūklės taisykles)",
+          "EfektyviausiGaudymoBudai": "Spiningas",
+          "EfektyviausiMasalai": "Vobleriai, blizgės, guminukai"
+        },
+        {
+          "Zuvis": "Margieji upėtakiai",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Šaltavandenės upės ir upeliai",
+          "EfektyviausiGaudymoBudai": "Spiningas, muselinė",
+          "EfektyviausiMasalai": "Vobleriai, sukrės ir kiti tik dirbtiniai EfektyviausiMasalai, skęstančios muselės, strymeriai"
+        },
+        {
+          "Zuvis": "Žiobris",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+          "EfektyviausiGaudymoBudai": "Plūdinė, dugninė, avižėlė",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio lervos, musės lervos, sliekai"
+        },
+        {
+          "Zuvis": "Šapalas",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+          "EfektyviausiGaudymoBudai": "Plūdinė, dugninė, avižėlė, spiningas, muselinė",
+          "EfektyviausiMasalai": "Visi dirbtiniai ir gyvi EfektyviausiMasalai"
+        },
+        {
+          "Zuvis": "Strepetys",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Vidutinio dydžio ir mažesnės upės",
+          "EfektyviausiGaudymoBudai": "Plūdinė, avižėlė",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio ir musės lervos"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Menuo": "vasario",
+      "Zuvys": [
+        {
+          "Zuvis": "Ešerys",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Blizgiavimas, avižėle ir 'velniu'",
+          "EfektyviausiMasalai": "Vertikalios blizgutės, švytuoklės, avižėlės, 'velniai', uodo trūklio lervos ar jos imitacija, ešerio akis"
+        },
+        {
+          "Zuvis": "Sterkas",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Kuršių ir Kauno marios, dauguma užtvankų, kai kurie ežerai",
+          "EfektyviausiGaudymoBudai": "Blizgiavimas, stambi aviža",
+          "EfektyviausiMasalai": "Blizgės, švytuoklės, vibai, stambios avižos, žuvies galiukai"
+        },
+        {
+          "Zuvis": "Karšis",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Avižėlės, plūdinė, fideris",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio lervos, musės lervos"
+        },
+        {
+          "Zuvis": "Plakis",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Avižėlė, plūdinė, fideris",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio ir musės lervos"
+        },
+        {
+          "Zuvis": "Kuoja",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Avižėlės, plūdinė, fideris",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio lervos, mažos musės lervos (pinkos)"
+        },
+        {
+          "Zuvis": "Vėgėlė (leidžiama gaudyti tik nuo sausio 16 d.)",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Kuršių marios, Nemunas",
+          "EfektyviausiGaudymoBudai": "Blizgė, dugninė meškerė ar vėliavėlės",
+          "EfektyviausiMasalai": "Blizgės su užkabintu žuvies gabaliuku, žuvelė, sliekai"
+        },
+        {
+          "Zuvis": "Stinta",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Kuršių marios",
+          "EfektyviausiGaudymoBudai": "Avižėlės, plūdinė, fideris",
+          "EfektyviausiMasalai": "Fosforinės arba paprastos lengvos avižėlės su užmautais žuvų gabaliukas"
+        },
+        {
+          "Zuvis": "Ežerinė stintelė",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Kai kurie gilūs ežerai ir tvenkiniai",
+          "EfektyviausiGaudymoBudai": "Speciali sistemėlė",
+          "EfektyviausiMasalai": "Fosforinės itin mažos avižėlės, kabliukai, mažos musės lervos (pinkos)"
+        },
+        {
+          "Zuvis": "Šlakiai ir lašišos (leidžiama žvejoti tik įsigijus toje upėje galiojančią kortelę)",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Neries, Šventosios, Dubysos, Minijos ir kitos upės ir jų ruožai kur organizuojama šių žuvų limituota žūklė (žr. žūklės taisykles)",
+          "EfektyviausiGaudymoBudai": "Spiningas, muselinė",
+          "EfektyviausiMasalai": "Vobleriai, blizgės, guminukai, muselės"
+        },
+        {
+          "Zuvis": "Margieji upėtakiai",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Šaltavandenės upės ir upeliai",
+          "EfektyviausiGaudymoBudai": "Spiningas, muselinė",
+          "EfektyviausiMasalai": "Vobleriai, sukrės ir kiti tik dirbtiniai EfektyviausiMasalai, skęstančios muselės, strymeriai"
+        },
+        {
+          "Zuvis": "Žiobris",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+          "EfektyviausiGaudymoBudai": "Plūdinė, dugninė, avižėlė",
+          "EfektyviausiMasalai": "Avižėlės, uodo trūklio lervos, musės lervos, sliekai"
+        },
+        {
+          "Zuvis": "Seliava",
+          "Kibimas": "Geras",
+          "Zuklavietes": "'Seliaviniai' ežerai",
+          "EfektyviausiGaudymoBudai": "Speciali sistemėlė",
+          "EfektyviausiMasalai": "Trūkliai"
+        },
+        {
+          "Zuvis": "Šapalas",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+          "EfektyviausiGaudymoBudai": "Plūdinė, dugninė, avižėlė, spiningas, muselinė",
+          "EfektyviausiMasalai": "Visi dirbtiniai ir gyvi EfektyviausiMasalai"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Menuo": "gruodžio",
+      "Zuvys": [
+        {
+          "Zuvis": "Ešerys",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Didesnės ir vidutinės upės, kai kurie tvenkiniai ir ežerai",
+          "EfektyviausiGaudymoBudai": "Visi žūklės būdai",
+          "EfektyviausiMasalai": "Vertikalios blizgutės, švytuoklės, avižėlės, 'velniai', uodo trūklio lervos ar jos imitacija, ešerio akis"
+        },
+        {
+          "Zuvis": "Lydeka",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Spiningas, muselinė, blizgės, vėliavėlės, skrutuliai",
+          "EfektyviausiMasalai": "Visi dirbtiniai EfektyviausiMasalai, negyva ar gyva žuvelė"
+        },
+        {
+          "Zuvis": "Salatis",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Didesnės upės, užtvankos, kai kurie ežerai, Kuršių, Kauno, Kupiškio marios",
+          "EfektyviausiGaudymoBudai": "Spiningas, muselinė",
+          "EfektyviausiMasalai": "Vartiklės, 7-10 cm vobleriai, didesnės muselės"
+        },
+        {
+          "Zuvis": "Sterkas",
+          "Kibimas": "Vidutiniškas",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Spiningas, velkė, dugninė",
+          "EfektyviausiMasalai": "7-10 cm guminukai, negyva žuvelė ar jos gabaliukas, žieminė blizgė"
+        },
+        {
+          "Zuvis": "Karšis",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Plūdinė, fideris, žieminė meškerė",
+          "EfektyviausiMasalai": "Musės lervos, uodo trūklio lervos, avižėlės"
+        },
+        {
+          "Zuvis": "Plakis",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Visi telkiniai",
+          "EfektyviausiGaudymoBudai": "Plūdinė, fideris, žieminė meškerė",
+          "EfektyviausiMasalai": "Musės lervos, sliekai, uodo trūklio lervos, avižėlės"
+        },
+        {
+          "Zuvis": "Kuoja",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Upės ir upeliai, kai kurie pratakūs tvenkiniai ir karjerai",
+          "EfektyviausiGaudymoBudai": "Plūdinė, fideris",
+          "EfektyviausiMasalai": "Didelės ir mažos musės lervos, batono minkė, uodo trūklio lervos, avižėlės"
+        },
+        {
+          "Zuvis": "Vėgėlė (leidžiama gaudyti tik nuo sausio 16 d.)",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Visi vandens telkiniai",
+          "EfektyviausiGaudymoBudai": "Dugninė",
+          "EfektyviausiMasalai": "Sliekai, negyva ir gyva žuvelė, varlės"
+        },
+        {
+          "Zuvis": "Meknė",
+          "Kibimas": "Silpnas",
+          "Zuklavietes": "Baltijos jūra",
+          "EfektyviausiGaudymoBudai": "Plūdinė, dugninė",
+          "EfektyviausiMasalai": "Musės lervos, sliekai"
+        },
+        {
+          "Zuvis": "Menkė",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Baltijos jūros priekrantė",
+          "EfektyviausiGaudymoBudai": "Vertikalus gaudymas, spiningas",
+          "EfektyviausiMasalai": "Guminukai, pilkeriai, krevetės"
+        },
+        {
+          "Zuvis": "Plekšnė",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Kuršių marios, Nemunas, upės ir tvenkiniai, kur susiformavusi jų vietinė (neišeinanti iį jūrą) populiacija",
+          "EfektyviausiGaudymoBudai": "Dugninė",
+          "EfektyviausiMasalai": "Gyvos ir virtos krevetės, žuvies gabaliukai, sliekai"
+        },
+        {
+          "Zuvis": "Žiobris",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Nemunas, Neris žemupys, kitos upės, kur šiuo metu leidžiama žvejoti",
+          "EfektyviausiGaudymoBudai": "Dugninė, plūdinė, žieminė meškerė",
+          "EfektyviausiMasalai": "Uodo trūklio ir musės lervos, sliekeliai, avižėlė"
+        },
+        {
+          "Zuvis": "Šapalas",
+          "Kibimas": "Geras",
+          "Zuklavietes": "Didesnės ir vidutinės upės, protakos tarp ežerų",
+          "EfektyviausiGaudymoBudai": "Spiningas, plūdinė, muselinė, dugninė",
+          "EfektyviausiMasalai": "Batono minkė, sliekai, musės lervos, muselės, nedideli guminukai, avižėlės ir blizgutės"
+        }
+      ]
+    }
+  ]
+]
