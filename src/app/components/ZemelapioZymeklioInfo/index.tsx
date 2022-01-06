@@ -1,4 +1,5 @@
 import { FormEvent, useContext, useEffect, useState } from "react";
+import { useAuth } from "../../../contexts/AuthContext";
 import { ZymeklioInfoContext } from "../../../utils/store/zymeklio-info-context";
 import { IZymeklis } from "../../../utils/types/IZymeklis";
 import ZymeklioInfo from "../../api/ZymeklioInfo/ZymeklioInfo";
@@ -10,6 +11,8 @@ interface IZemelapioZymeklioInfo {
 
 export default function ZemelapioZymeklioInfo(props: IZemelapioZymeklioInfo) {
   const { zymeklis } = props;
+
+  const { user } = useAuth();
 
   const [input, setInput] = useState("");
   const [textarea, setTextarea] = useState("");
@@ -121,11 +124,13 @@ export default function ZemelapioZymeklioInfo(props: IZemelapioZymeklioInfo) {
             id="informacija"
           />
         </div>
-        <div className="zymeklio-form-actions">
-          <button type="submit">Išsaugoti</button>
-          <button onClick={(e) => handleDelete(e)}>Ištrinti</button>
-          <button onClick={(e) => handleCancel(e)}>Uždaryti</button>
-        </div>
+        {user && (
+          <div className="zymeklio-form-actions">
+            <button type="submit">Išsaugoti</button>
+            <button onClick={(e) => handleDelete(e)}>Ištrinti</button>
+            <button onClick={(e) => handleCancel(e)}>Uždaryti</button>
+          </div>
+        )}
       </form>
     </ZemelapioZymeklioInfoWrapper>
   );
